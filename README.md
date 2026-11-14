@@ -18,9 +18,6 @@
     <a href="https://linkedin.com/in/ishan-singh-tomar"><img src="https://img.shields.io/badge/LinkedIn-ishan--singh--tomar-8B1E3F?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D0D0D&color=8B1E3F" alt="LinkedIn" /></a>
     <a href="mailto:ishansinghtomar350@gmail.com"><img src="https://img.shields.io/badge/Email-ishansinghtomar350%40gmail.com-8B1E3F?style=flat-square&logo=gmail&logoColor=white&labelColor=0D0D0D&color=8B1E3F" alt="Email" /></a>
   </p>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=i-tomar&color=8B1E3F&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-  </p>
 </div>
 
 <div align="center">
@@ -29,18 +26,13 @@
 
 ## About me
 
-<table>
-  <tr>
-    <td valign="top">
-      <p>I build systems where models reason and a trusted backend decides. That usually means Python and FastAPI at the core, with LangGraph for agentic workflows, Flower for federated learning, and careful work on auth, isolation, and tests.</p>
-      <p>Right now I am a final-year CSIT student in Indore, shipping projects that go from design through testing and deployment — cross-bank fraud detection, a security-bounded shopping agent, and RAG-based learning tools.</p>
-      <p><em>Certified by AWS, NVIDIA, Google Cloud, and Oracle.</em></p>
-    </td>
-    <td align="center" width="380">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Developer coding at a desk" />
-    </td>
-  </tr>
-</table>
+I build systems where models reason and a trusted backend decides. That usually means Python and FastAPI at the core, with LangGraph for agentic workflows, Flower for federated learning, and careful work on auth, isolation, and tests.
+
+Right now I am a final-year CSIT student in Indore, shipping projects that go from design through testing and deployment — cross-bank fraud detection, a security-bounded shopping agent, and RAG-based learning tools.
+
+<div align="center">
+  <em>Certified by AWS, NVIDIA, Google Cloud, and Oracle.</em>
+</div>
 
 ## Highlights
 
@@ -56,18 +48,11 @@
 [![Google Cloud Engineering](https://img.shields.io/badge/Google%20Cloud-Engineering%20Certificate%20(2025)-4285F4?style=flat-square&logo=googlecloud&logoColor=white&labelColor=0D0D0D)](https://cloud.google.com/)
 [![Oracle Data Science Foundations](https://img.shields.io/badge/Oracle-Data%20Science%20Foundations%20(2025)-F80000?style=flat-square&logo=oracle&logoColor=white&labelColor=0D0D0D)](https://education.oracle.com/)
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=680&cursor=true&lines=My+toolkit+%E2%9A%99%EF%B8%8F;Python+%E2%80%A2+FastAPI+%E2%80%A2+LangGraph+%E2%80%A2+React" alt="My toolkit" />
-</div>
-
 ## Tech stack
 
 Technologies I have actually used in public repos.
 
 <div align="center">
-  <p>
-    <img src="https://skillicons.dev/icons?i=python,ts,js,fastapi,react,nextjs,docker,pytorch,tensorflow,postgres,redis,tailwind,sqlite&theme=dark" alt="Tech icons" />
-  </p>
   <p><strong>Languages</strong><br />
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -198,12 +183,6 @@ Technologies I have actually used in public repos.
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=i-tomar&layout=compact&hide_border=false&border_color=8B1E3F&title_color=B23A5B&text_color=F5F5F5&bg_color=0D0D0D" alt="Top languages" height="170" />
   <br />
   <img src="https://streak-stats.demolab.com/?user=i-tomar&hide_border=false&border=8B1E3F&background=0D0D0D&ring=8B1E3F&fire=FFD700&currStreakNum=F5F5F5&sideNums=F5F5F5&currStreakLabel=D4AF37&sideLabels=B23A5B&dates=B23A5B&stroke=8B1E3F" alt="GitHub streak" />
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/i-tomar/i-tomar/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/i-tomar/i-tomar/output/github-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/i-tomar/i-tomar/output/github-snake-dark.svg" />
-  </picture>
 </div>
 
 ## Connect with me
