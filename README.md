@@ -39,7 +39,7 @@ Right now I am a final-year CSIT student in Indore, shipping projects that go fr
 - Selected for **Round 2 at HackHarvard 2026** (Harvard’s undergraduate hackathon, 500+ participants worldwide)
 - National hackathons: **AI Manthan**, **Prayatna**, **TIT Srijan**, and **Void Hacks**
 - **145 Pytest cases** on AgentPay covering prompt injection, concurrency, forged signatures, and spending limits
-- **International Service Director, Rotaract Club** — organized and led events for 200+ attendees
+- **Club Service Director, Rotaract Club** — organized and led events for 200+ attendees
 
 **Certifications**
 
